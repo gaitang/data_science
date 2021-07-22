@@ -1,0 +1,2 @@
+name="gaitang"
+print(name)
